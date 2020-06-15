@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#3d3d3d</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#10ac84</color>
+    <color name="colorLoginActivity">#d2dae2</color>
+    <color name="colorConfirmDialog">#2f3640</color>
+    <color name="colorNavigation">#f5f6fa</color>
+    <color name="colorFragment">#f5f6fa</color>
+
+    <color name="colorItemTint">#353b48</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="header">#dfe6e9</color>
+    <color name="fragmentAuthor">#48dbfb</color>
+    <color name="bgBottomNavigation">#b2bec3</color>
+    <color name="start">#D3CCE3</color>
+    <color name="start_2">#6DD5FA</color>
+    <color name="start_3">#EECDA3</color>
+</resources>
